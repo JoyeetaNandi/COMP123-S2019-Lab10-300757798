@@ -1,4 +1,4 @@
-﻿namespace practiceLab10
+﻿namespace COMP123_S2019_Lab10_300757798
 {
     partial class EndForm
     {

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace practiceLab10.Properties
+namespace COMP123_S2019_Lab10_300757798.Properties
 {
 
 
